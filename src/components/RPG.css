@@ -1,0 +1,39 @@
+
+
+#magias{
+    display: none;
+}
+
+.magia{
+    border: solid white 2px;
+    border-radius:  10px;
+    padding-bottom: 14px;
+    margin-bottom: 20px;
+}
+
+#formulario{
+    display: flex;
+    flex-direction: column;
+}
+
+#exibicao{
+    width: 200px;
+    height: 20vh;
+    margin-top: 30px;
+}
+
+#botoes2{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+input{
+    margin-bottom: 20px;
+}
+/* .titulo{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1fr 1fr;
+} */

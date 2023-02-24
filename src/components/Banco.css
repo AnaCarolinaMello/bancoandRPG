@@ -1,0 +1,19 @@
+
+#exibirB{
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    width: 210px;
+    height: 20vh;
+}
+#botoes{
+    display: flex;
+    flex-direction: row;
+    margin-top: 10px;
+    justify-content: space-between;
+}
+
+#overValue{
+    display: none;
+    margin-bottom: 17px;
+}
